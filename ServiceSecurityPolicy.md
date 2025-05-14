@@ -120,8 +120,8 @@ This policy applies to:
 
 ```bash
 $ report-incident --type phishing --user jdoe --priority high
-# Replace with actual output or example if needed
-```
+
+
 
 Submit incident reports to: [security@yourcompany.com](mailto:security@yourcompany.com)
 
