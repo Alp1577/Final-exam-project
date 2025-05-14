@@ -119,9 +119,9 @@ This policy applies to:
 **Reporting Procedure:**
 
 ```bash
-$ report-incident --type phishing --user jdoe --priority high
+report-incident --type phishing --user jdoe --priority high
 
-
+```
 
 Submit incident reports to: [security@yourcompany.com](mailto:security@yourcompany.com)
 
